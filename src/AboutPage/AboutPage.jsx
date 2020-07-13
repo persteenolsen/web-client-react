@@ -62,7 +62,7 @@ This React SPA Client work together with a secure ASP.NET Core 2.2 Web API servi
    <li>The login system is using a JSON Web Token ( JWT )</li>
    <li>The user will have access to the secure endpoints of 
        the Web API passing login and using the JWT</li>
-   <li>The endpoints of the Web API are secured by JWT</li>
+   <li>The endpoints of the Web API are secured by JWT with the Baerer scheme</li>
    
 
   </ul>
