@@ -42,9 +42,9 @@ module.exports = {
         // global app config object
 		
 		// NOTE: FOR PRODUCTION ON simply.com!
-        // config: JSON.stringify({ apiUrl: 'https://users.api.core.persteenolsen.com/' })
+         config: JSON.stringify({ apiUrl: 'https://users.api.core.persteenolsen.com/' })
 		         
 		// Testing with ASP.NET Core 2.2 Web API
-		 config: JSON.stringify({ apiUrl:'http://localhost:4000' })
+		// config: JSON.stringify({ apiUrl:'http://localhost:4000' })
     }
 }
