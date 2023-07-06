@@ -35,7 +35,7 @@ This React SPA Client work together with a secure ASP.NET Core 2.2 Web API servi
 
 <b>Last Updated</b>
 <ul>
- <li>19-01-2023</li>
+ <li>05-07-2023</li>
 </ul>
 
 <b>Main functionality</b>
